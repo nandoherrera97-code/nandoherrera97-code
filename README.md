@@ -42,7 +42,7 @@ Desarrollo de herramientas en Python para la generación de geometrías aerodin�
 
 - **Doctorado en Ingeniería:** Universidad Complutense de Madrid. En curso.
 - **Máster en Ingeniería de Sistemas y Automatización:** UNED.
-- **Grado en Ingeniería Mecánica:** Universidad de Málaga.## Hi there 👋
+- **Grado en Ingeniería Mecánica:** Universidad de Málaga.
 
 <!--
 **nandoherrera97-code/nandoherrera97-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
